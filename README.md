@@ -1,6 +1,6 @@
 # Gatsby Airtable starter
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/246515cd-93a8-4449-bed8-96567307b1e1/deploy-status)](https://app.netlify.com/sites/gatsby-airtable-starter/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2735e4a9-8d6c-47b8-b559-b2cbb8051f2b/deploy-status)](https://app.netlify.com/sites/gatsby-starter-airtable/deploys)
 
 ## Features
 
